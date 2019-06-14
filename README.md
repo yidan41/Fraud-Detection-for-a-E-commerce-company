@@ -11,3 +11,5 @@ The goal of this project contains:
 * _Make classifications over a highly imbalanced (roughly 100:1) data set_
 * _Perform correct feature engineering to extract more information from the data_
 * _Made actionable recommendations for fraud detection system design_
+
+Model used: Logistic Regression, Random Forest, Gradient Boosting
